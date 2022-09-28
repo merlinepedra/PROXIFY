@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible // indirect
 	github.com/Mzack9999/roundrobin v0.0.0-20211108110706-e876335f5ad4
-	github.com/Shopify/sarama v1.32.0
+	github.com/Shopify/sarama v1.37.0
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/elastic/go-elasticsearch/v7 v7.17.1
@@ -21,7 +21,7 @@ require (
 	github.com/projectdiscovery/mapsutil v0.0.1
 	github.com/projectdiscovery/stringsutil v0.0.0-20210830151154-f567170afdd9
 	github.com/projectdiscovery/tinydns v0.0.1
-	github.com/rs/xid v1.3.0
+	github.com/rs/xid v1.4.0
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
+	golang.org/x/net v0.0.0-20220927171203-f486391704dc
 )
